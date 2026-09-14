@@ -1,7 +1,7 @@
  // Reasons database
  const reasons = [
     { 
-        text: "kol 3am w ett 7ay b alf 5ir w rabi y3tik ma titmna ya rouhi ✨", 
+        text: "kol 3am w ett 7ay b alf 5ir w rabi y3tik ma titmna  ✨", 
         emoji: "✨",
         gif: "gif1.gif"
     },
@@ -16,7 +16,7 @@
         gif: "gif1.gif"
     },
     { 
-        text: " a93d my3a zynlii dnytii frhn eli ett toujdt nhibk brcha ya gamrti 🦋 ", 
+        text: " hmdlh eli ett moujda w t3rft 3ilk 🦋 ", 
         emoji: "🦋",
         gif: "gif2.gif"
     }
